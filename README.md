@@ -11,13 +11,37 @@ A simple interactive chatbot that answers frequently asked questions (FAQs) usin
 -  Streamlit-based interface for real-time interaction
 -  Simple and fast response generation
 
+## Installation
+
+- Clone this repository or download the code.
+- Make sure you have Python installed (recommended Python 3.7+).
+- Install dependencies using pip:
 
 ---
 
-##  Getting Started
+*bash*
+           pip install -r requirements.txt
 
-### 1. Clone the Repository
+---
 
-```bash
-git clone https://github.com/your-username/faq-chatbot-nltk-streamlit.git
-cd faq-chatbot-nltk-streamlit
+*Usage*
+Run the chatbot locally with:
+           python faqschatbot.py
+
+---
+
+*How to Use*
+1. Enter your question in the input box.
+2. Click Send to get an answer from the chatbot.
+3. If a direct match isn't found, the bot will show the closest matching question and answer.
+4. Click Feedback to leave a comment (coming soon).
+
+---
+
+*License*
+        This project is open source 
+
+---
+
+*Contact*
+         Created by Jaweria Masood
